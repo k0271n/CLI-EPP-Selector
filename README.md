@@ -12,7 +12,8 @@ Ensure that you have:
 
 # Notes
 
-It may be ideal to place main.py in your ~/Scripts/ directory, or similar, and alias its execution accoridngly in a ~/.bash_aliases file, or similar, via:
+It may be ideal to place main.py in your ~/Scripts/ directory, or an equivalent, and alias its execution accordingly in your ~/.bash_aliases file via:
+
 > alias='sudo python ./path/to/script/main.py'
 
 The latter will allow the script to conveniently function in your terminal of choice.
