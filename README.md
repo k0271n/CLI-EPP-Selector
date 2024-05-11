@@ -4,11 +4,11 @@ Pick your AMD P-State EPP power preference with this redundant tool!
 
 # Requirements
 
-Ensure that you have:
+Ensure that you:
 
 * Installed the latest version of python on your linux distribution,
-* Given executable permissions to the main.py file,
-* Are using AMD P-State EPP compatible hardware with a compatible linux kernel.
+* Gave executable permissions to the main.py file,
+* Are using AMD P-State EPP compatible hardware, with a compatible linux kernel.
 
 # Notes
 
