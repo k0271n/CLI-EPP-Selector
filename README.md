@@ -1,4 +1,4 @@
-# cli-epp
+# cli-epp-selector
 
 Pick your AMD P-State EPP power preference with this redundant tool!
 
