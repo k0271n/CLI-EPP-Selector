@@ -1,6 +1,6 @@
 # Overview
 
-Pick your AMD P-State EPP power preference with this redundant tool!
+Pick your AMD P-State EPP power preference with this redundant and very simple tool!
 
 # Requirements
 
@@ -13,6 +13,8 @@ Ensure that you:
 # Notes
 
 This program is now considered obsolete as most power management tools for linux support AMD P-State EPP.
+
+Check main.py for a quick showcase of how this software works. It's extremely simple, and probably not ideal.
 
 It may be ideal to place main.py in your ~/Scripts/ directory, or an equivalent, and alias its execution accordingly in your ~/.bash_aliases file via:
 
