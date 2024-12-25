@@ -12,6 +12,8 @@ Ensure that you:
 
 # Notes
 
+This program is now considered obsolete as most power management tools for linux support AMD P-State EPP.
+
 It may be ideal to place main.py in your ~/Scripts/ directory, or an equivalent, and alias its execution accordingly in your ~/.bash_aliases file via:
 
 > alias='sudo python ./path/to/script/main.py'
