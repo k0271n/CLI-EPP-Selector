@@ -1,4 +1,4 @@
-# Overview
+# CLI-EPP-Selector
 
 Pick your AMD P-State EPP power preference with this redundant and very simple tool!
 
@@ -12,7 +12,7 @@ Ensure that you:
 
 # Notes
 
-This program is now considered obsolete as most power management tools for linux support AMD P-State EPP.
+**This program is now considered obsolete as most power management tools for linux support AMD P-State EPP.**
 
 Check main.py for a quick showcase of how this software works. It's extremely simple, and probably not ideal.
 
