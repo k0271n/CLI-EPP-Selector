@@ -1,4 +1,5 @@
 # This is a reductive CLI tool which provides an easy, guided way of changing the AMD P-State EPP power preferences.
+# Currently, it is obsolete.
 
 # Imports "os" to run bash scripts.
 import os
