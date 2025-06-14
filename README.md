@@ -1,9 +1,7 @@
 # cli-epp-selector
-
-Pick your AMD P-State EPP power preference with this redundant and very simple tool!
+Pick your AMD P-State EPP power preference with this (now redundant) CLI tool!
 
 # Requirements
-
 Ensure that you:
 
 - Installed the latest version of python on your linux distribution,
@@ -11,7 +9,6 @@ Ensure that you:
 - Are using AMD P-State EPP compatible hardware, with a compatible linux kernel.
 
 # Notes
-
 **This program is now considered obsolete as most power management tools for linux support AMD P-State EPP.**
 
 Check main.py for a quick showcase of how this software works. It's extremely simple, and probably not ideal.
